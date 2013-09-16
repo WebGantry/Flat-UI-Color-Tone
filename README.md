@@ -5,7 +5,7 @@ A 'stupidly-simple', web-based tool for Web-master & Designers; who are working 
 
 Flat UI Color Tone; a tool which helps Web-master & Designers choose their perfect Flat UI-based Color for their project.
 
-It offers all generic Flat UI Colors; but adds "Shades" and "Tint" colors options as well; with the HEX code. The first ever site/tool on the Internet to offer these options.
+It offers all generic Flat UI Colors; but adds "Shades" and "Tint" color options as well; with the HEX code. The first ever site/tool on the Internet to offer these options.
 
 It features two Color Palettes. The first one; on the left row is the "Shades" bit (FlatUIColor <-> Darker Color) where else, the one on the right-hand side row is the "Tone" color (FlatUIColor <-> Lighter Color). 
 
